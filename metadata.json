@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Drive Study Interface",
+  "description": "just a beautiful way to display drive folder",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
